@@ -1,0 +1,1 @@
+# miniShop2-front
